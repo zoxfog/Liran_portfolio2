@@ -3,7 +3,7 @@
 ## Project Portfolio
 
 
-# Project 1: Day Trading Strategy Analysis
+### Project 1: Day Trading Strategy Analysis
 
 
 In depth analysis of my day trading strategy covering data from dozens of trades with real money. The data features many variables other than Entry/Exit stock prices in order to get a better picture and support future desicions. Used necessary data down to the 1-minute open, close, high, low and volume bars to retrieve better insight and accuracy.
@@ -21,7 +21,7 @@ Programming Language: Python
 
 
 
-# Project 2: Cardiovascular Diseases Analysis and Survivability Prediction
+### Project 2: Cardiovascular Diseases Analysis and Survivability Prediction
 
 Analysis of a dataset of 299 patients with heart failure collected in 2015. Prediction and cluster analysis of patient survivability based on 13 attributes.
 
@@ -35,7 +35,7 @@ Programming Language: Python
 
 
 
-# Project 3: Assembler
+### Project 3: Assembler
 
 
 A program for converting instructions written in low-level assembly code into relocatable machine code and generating along information for the loader.
