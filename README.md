@@ -3,9 +3,10 @@
 ## Project Portfolio
 
 
+
+
+BSc.
 ### Project 1: Day Trading Strategy Analysis
-
-
 In depth analysis of my day trading strategy covering data from dozens of trades with real money. The data features many variables in addition to Entry/Exit stock prices in order to get a better picture and support future desicions. Used necessary data down to the 1-minute open, close, high, low and volume bars to retrieve better insight and accuracy.
 
 
@@ -17,7 +18,7 @@ The main notebook of the project, here we will conduct all of the pre processing
 
 Programming Language: Python
 
-<img src="https://raw.githubusercontent.com/zoxfog/Liran_Portfolio/master/images/Screenshot%202021-04-25%20051634.jpg" width="700" height="300">
+% <img src="https://raw.githubusercontent.com/zoxfog/Liran_Portfolio/master/images/Screenshot%202021-04-25%20051634.jpg" width="700" height="300">
 
 
 
